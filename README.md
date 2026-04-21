@@ -30,6 +30,8 @@ A full-screen hero section featuring:
 
 ![IMG](./scrn.png)
 
+[CLICK_HERE](https://liveabhi009.github.io/mix-blend/)
+
 * Background image with overlay effect
 * Bold Spider-Man title
 * Iconic quote:
